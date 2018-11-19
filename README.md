@@ -2,4 +2,4 @@
 
 These are the slides that I used in my talk at Frontmania 2018.
 
-The code is available on the following repo `https://github.com/AdamModus/wait-web-could-do-that`
+The code is available on the following repo [https://github.com/AdamModus/wait-web-could-do-that](https://github.com/AdamModus/wait-web-could-do-that)
